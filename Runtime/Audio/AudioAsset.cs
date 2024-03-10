@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Mzo.Audio
 {
-    [CreateAssetMenu(fileName = "New Sound Resource", menuName = "Audio/Sound Resource")]
+    [CreateAssetMenu(fileName = "New Audio Asset", menuName = "Audio/Audio Asset")]
     public class AudioAsset : ScriptableObject
     {
         public List<AudioEditing> allSounds = new List<AudioEditing>();
