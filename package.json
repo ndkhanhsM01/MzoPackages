@@ -1,0 +1,12 @@
+{
+	"name": "com.mzo.commonunitypackage",
+	"version": "1.0.0",
+	"displayName": "Mzo's common scripts",
+	"description": "Common script files can used in the project",
+	"unity": "2021.3",
+	"author":{
+		"name": "Mzo",
+		"email": "mainver01@gmail.com",
+		"url": ""
+	}
+}
